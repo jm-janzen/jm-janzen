@@ -1,16 +1,16 @@
-## Hi there 👋
+_The red commits glint  
+"CI looks good to me :+1:"  
+The perfect PR_  
 
-<!--
-**jm-janzen/jm-janzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About J.M.
 
-Here are some ideas to get you started:
+Born to dilly-dally, forced to lock in; and so, I chase simplicity. Ocassionally I find it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some WIPs I'm dallying at presently:
+
+- Making an API of [myself](https://api.jmjanzen.com/me). Wrote a bit about it [here](https://github.com/jm-janzen/jm/tree/main/domains/api.jmjanzen.com).
+- My personal website [jmjanzen.com](https://jmjanzen.com/) is a constant source of tension between the personal and professional, so that's fun.
+- If [blog.jmjanzen.com](https://blog.jmjanzen.com/) ever comes back anything but 404, I'll have truly made it.
+- Probably some fourth thing I'm forgetting...
+
+I love email! If you're the kind of person to take the time to actually write a message, there's a good chance we'll get along. I would love to hear from you. :)
